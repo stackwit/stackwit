@@ -9,7 +9,7 @@
 
 **Frontend:** React, React Native, Vue.js, Next.js, Nuxt.js, Redux, Vuex  
 
-**Frameworks & CMS:** WordPress, Magento2, Shopify, Flask, Django, Nestjs, Express, Laravel, Codeigniter, Zend, Symphony
+**Frameworks & CMS:** SpringBoot, WordPress, Magento2, Shopify, Flask, Django, Nestjs, Express, Laravel, Codeigniter, Zend, Symphony
 
 **DevOps & Cloud:** AWS, GCP, Docker, CI/CD, Server Setup & Management  
 
