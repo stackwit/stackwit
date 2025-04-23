@@ -6,15 +6,25 @@
 
 💻 **Tech Stack**  
 **Backend:** Java, Node, Python, PHP
+
 **Frontend:** React, React Native, Vue.js, Next.js, Nuxt.js, Redux, Vuex  
+
 **Frameworks & CMS:** WordPress, Magento2, Shopify, Flask, Django, Nestjs, Express, Laravel, Codeigniter, Zend, Symphony
+
 **DevOps & Cloud:** AWS, GCP, Docker, CI/CD, Server Setup & Management  
+
 **Databases:** MySQL, MongoDB, Firebase, PostgreSQL
-**Mobile:** Android, iOS, Hybrid Apps, Flutter, React Native  
+
+**Mobile:** Android, iOS, Hybrid Apps, Flutter, React Native 
+
 **Other Tools:** Git, SVN, Webpack, Babel, Gulp, Grunt, Postman, Redis, WebSockets, StropheJS
+
 **Repositories:** GitHub, GitLab, Bitbucket
+
 **OS:** Linux, MacOS
+
 **DevOps & Cloud** AWS, GCP, Docker, CI/CD, Nginx, Apache, Server Setup & Monitoring
+
 
 ## 🧠 Software Development Concepts & Skills
 
