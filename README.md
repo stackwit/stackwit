@@ -1,6 +1,6 @@
-👋 Hi, I'm Gaurav — Multi Stack Developer | AI Entrepreneur | Founder @ [Stackwit](https://www.stackwit.com)
+👋 Hi, I'm Gaurav — Techie | Sales Athlete | AI Model Builder for B2B | Agentic AI Workflow Automation Expert | AI Agents Architect @ [Stackwit Enterprise SaaS] (https://www.stackwit.com)
 
-🚀 I design and build scalable products — from CRMs to SaaS platforms — powered by custom code and cutting-edge AI.
+🚀 I design and build scalable enterprise products — from CRMs to SaaS platforms — powered by custom code and cutting-edge AI.
 
 ---
 
